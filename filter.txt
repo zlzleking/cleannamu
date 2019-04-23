@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: Cleannamu
 ! Author: Zlzleking | https://zlzleking.tk
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
