@@ -10,3 +10,10 @@ namu.wiki##.nav-item:has(a[title="최근 변경"])
 namu.wiki##.nav-item:has(a[title="최근 토론"])
 namu.wiki##.nav-item:has(a[title="특수 기능"])
 namu.wiki##.wiki-article-menu
+
+
+namu.wiki##.user-dropdown > a:has-text(내 문서 기여 목록)
+namu.wiki##.user-dropdown > a:has-text(내 토론 기여 목록)
+namu.wiki##.user-dropdown > a:has-text(로그인)
+namu.wiki##.user-dropdown > div.dropdown-divider:nth-of-type(3)
+namu.wiki##.user-dropdown > div.dropdown-divider:nth-of-type(4)
