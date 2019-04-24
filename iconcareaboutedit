@@ -6,7 +6,7 @@
 ! Twitter: https://twitter.com/Zlzleking
 ! Expires: 5 days
 
-namu.wiki##li.dropdown.nav-item > .dropdown-toggle.nav-link:has-text(최근 변경)
-namu.wiki##li.dropdown.nav-item > .dropdown-toggle.nav-link:has-text(최근 토론)
-namu.wiki##li.dropdown.nav-item > .dropdown-toggle.nav-link:has-text(특수 기능)
+namu.wiki##li.dropdown.nav-item > .dropdown-toggle.nav-link:has(title="최근 변경")
+namu.wiki##li.dropdown.nav-item > .dropdown-toggle.nav-link:has(title="최근 토론")
+namu.wiki##li.dropdown.nav-item > .dropdown-toggle.nav-link:has(title="특수 기능")
 namu.wiki##.wiki-article-menu
