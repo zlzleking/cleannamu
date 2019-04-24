@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Cleannamu-iconcareaboutedit
+! Title: Cleannamu-idoncareaboutedit
 ! Author: Zlzleking | https://zlzleking.tk
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Homepage: https://github.com/zlzleking/cleannamu/
