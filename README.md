@@ -12,3 +12,12 @@
 ## 사용법
 Ublock 필터 가져오기 메뉴에서 다음 링크를 추가하세요
 <pre> https://raw.githubusercontent.com/zlzleking/cleannamu/master/filter.txt </pre>
+
+
+## 난 토론도 편집도 관심 없는데?
+Ublock 필터 가져오기 메뉴에서 다음 링크를 추가하세요
+<pre> https://raw.githubusercontent.com/zlzleking/cleannamu/master/iconcareaboutedit </pre>
+
+### 효과
+1. 최근 변경, 최근 토론, 기타 기능 다 날립니다.
+2. 위키 편집 메뉴가 뜨지 않습니다.
