@@ -18,3 +18,4 @@ namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록
 namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록/3단계"])
 namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록/4단계"])
 namu.wiki##.footer
+namu.wiki##.live-list-card
