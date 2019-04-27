@@ -10,6 +10,7 @@ namu.wiki##.nav-item:has(a[title="최근 변경"])
 namu.wiki##.nav-item:has(a[title="최근 토론"])
 namu.wiki##.nav-item:has(a[title="특수 기능"])
 namu.wiki##.wiki-article-menu
+namu.wiki##.wiki-edit-section
 
 
 namu.wiki##.user-dropdown > a:has-text(내 문서 기여 목록)
