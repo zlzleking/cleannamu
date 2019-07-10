@@ -11,6 +11,7 @@
 !고지상자형 틀 제거
 namu.wiki##.wiki-paragraph > div:has(a[href="/w/%ED%8C%8C%EC%9D%BC:%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%BB%A4%EB%A8%BC%EC%A6%88%20%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4__CC.png"])
 namu.wiki##.wiki-paragraph > div:has(a[href^="https://namu.wiki/thread/"])
+namu.wiki##.wiki-paragraph > div:has(a[href^="https://namu.wiki/discuss/"])
 namu.wiki##.wiki-paragraph > div:has(a[title="나무위키:프로젝트"])
 namu.wiki##.wiki-paragraph > div:has(a[title="나무위키:프로젝트/출처"])
 namu.wiki##.wiki-paragraph > div:has(span:has-text(이 문서는 대한민국에서 불법인 내용을 다룹니다.))
