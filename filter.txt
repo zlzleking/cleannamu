@@ -25,8 +25,8 @@ namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록
 
 !사이트 공지 관련
 namu.wiki##.site-notice
-namu.wiki##.footer
+namu.wiki##footer[data-v-4ea1cb37=""]
 
 !나무라이브 관련
-namu.wiki##li.dropdown.nav-item > .dropdown-toggle.nav-link:has-text(라이브)
+namu.wiki##[data-v-dbc97308=""]:has(a[title="라이브"])
 namu.wiki##.live-list-card

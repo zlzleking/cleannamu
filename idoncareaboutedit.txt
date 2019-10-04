@@ -6,16 +6,14 @@
 ! Twitter: https://twitter.com/Zlzleking
 ! Expires: 5 days
 
-namu.wiki##.nav-item:has(a[title="최근 변경"])
-namu.wiki##.nav-item:has(a[title="최근 토론"])
-namu.wiki##.nav-item:has(a[title="특수 기능"])
-namu.wiki##.wiki-article-menu
+namu.wiki##ul[data-v-97145b5e=""] > li[data-v-6cbedabd=""]
+namu.wiki##ul[data-v-97145b5e=""] > li[data-v-dbc97308=""]
 namu.wiki##.wiki-edit-section
-namu.wiki##.wiki-edit-date
+namu.wiki##.r[data-v-82ec7d36=""]
+namu.wiki##.g[data-v-0732fac7=""]
 
 
-namu.wiki##.user-dropdown > a:has-text(내 문서 기여 목록)
-namu.wiki##.user-dropdown > a:has-text(내 토론 기여 목록)
-namu.wiki##.user-dropdown > a:has-text(로그인)
-namu.wiki##.user-dropdown > div.dropdown-divider:nth-of-type(3)
-namu.wiki##.user-dropdown > div.dropdown-divider:nth-of-type(4)
+namu.wiki##.show[data-v-2a0f1979=""] > a[title="내 문서 기여 목록"]
+namu.wiki##.show[data-v-2a0f1979=""] > a[title="내 토론 기여 목록"]
+namu.wiki##.show[data-v-2a0f1979=""]> a[title="로그인"]
+namu.wiki##.show[data-v-2a0f1979=""] > div[data-v-542565e4=""]
