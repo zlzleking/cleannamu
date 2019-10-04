@@ -23,6 +23,9 @@ namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록
 namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록/3단계"])
 namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록/4단계"])
 
+!Star 제거
+namu.wiki##.g[data-v-82ec7d36=""] > a[href^="/member/star/"]
+
 !사이트 공지 관련
 namu.wiki##.site-notice
 namu.wiki##footer[data-v-4ea1cb37=""]
