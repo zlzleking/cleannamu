@@ -6,15 +6,17 @@
 ! Twitter: https://twitter.com/Zlzleking
 ! Expires: 5 days
 
-namu.wiki##ul[data-v-97145b5e=""] > li[data-v-6cbedabd=""]
-namu.wiki##ul[data-v-97145b5e=""] > li[data-v-dbc97308=""]
+namu.wiki##nav > ul > li 
 namu.wiki##.wiki-edit-section
-namu.wiki##.r[data-v-82ec7d36=""]
+namu.wiki##article > .r > .g > a:has-text(편집)
+namu.wiki##article > .r > .g > a:has-text(역링크)
+namu.wiki##article > .r > .g > a:has-text(ACL)
+namu.wiki##article > .r > .g > a:has-text(토론)
+
 namu.wiki##p[data-v-0732fac7=""]
 
 
-namu.wiki##.show[data-v-2a0f1979=""] > a[title="내 문서 기여 목록"]
-namu.wiki##.show[data-v-2a0f1979=""] > a[title="내 토론 기여 목록"]
-namu.wiki##.show[data-v-2a0f1979=""]> a[title="로그인"]
-namu.wiki##.show[data-v-2a0f1979=""] > div[data-v-542565e4=""]
-namu.wiki##form[data-v-4418a12c=""]
+namu.wiki##nav > ul > li > .show > a[title="내 문서 기여 목록"]
+namu.wiki##nav > ul > li > .show > a[title="내 토론 기여 목록"]
+namu.wiki##nav > ul > li > .show > a[title="로그인"]
+namu.wiki##.show[data-v-2a0f1979=""] > div[data-v-29ae2084=""]
