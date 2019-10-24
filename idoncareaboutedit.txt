@@ -12,6 +12,7 @@ namu.wiki##article > .r > .g > a:has-text(편집)
 namu.wiki##article > .r > .g > a:has-text(역링크)
 namu.wiki##article > .r > .g > a:has-text(ACL)
 namu.wiki##article > .r > .g > a:has-text(토론)
+namu.wiki##article > p[data-v-013035f1=""]
 
 namu.wiki##p[data-v-0732fac7=""]
 
@@ -19,4 +20,4 @@ namu.wiki##p[data-v-0732fac7=""]
 namu.wiki##nav > ul > li > .show > a[title="내 문서 기여 목록"]
 namu.wiki##nav > ul > li > .show > a[title="내 토론 기여 목록"]
 namu.wiki##nav > ul > li > .show > a[title="로그인"]
-namu.wiki##.show[data-v-2a0f1979=""] > div[data-v-29ae2084=""]
+namu.wiki##nav > ul > li > .show > div[data-v-29ae2084=""]
