@@ -12,7 +12,7 @@ namu.wiki##article > .r > .g > a:has-text(편집)
 namu.wiki##article > .r > .g > a:has-text(역링크)
 namu.wiki##article > .r > .g > a:has-text(ACL)
 namu.wiki##article > .r > .g > a:has-text(토론)
-namu.wiki##article > p[data-v-013035f1=""]
+namu.wiki##article > p[data-v-355b80c8=""]
 
 namu.wiki##p[data-v-0732fac7=""]
 
