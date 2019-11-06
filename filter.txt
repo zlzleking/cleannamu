@@ -35,4 +35,3 @@ namu.wiki##nav > ul > li > a[title="라이브"]
 namu.wiki##.live-list-card
 
 !모바일 최근변경 제거
-namu.wiki##.c
