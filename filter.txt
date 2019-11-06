@@ -35,3 +35,5 @@ namu.wiki##nav > ul > li > a[title="라이브"]
 namu.wiki##.live-list-card
 
 !모바일 최근변경 제거
+namu.wiki##.r:has(>h5:has-text(최근 변경))
+namu.wiki##iframe[id^="aswift"]
