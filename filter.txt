@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Homepage: https://github.com/zlzleking/cleannamu/
 ! Twitter: https://twitter.com/Zlzleking
-! Expires: 5 days
+! Expires: 1 days
 
 
 
@@ -29,12 +29,12 @@ namu.wiki##article > .r > .g > a[href^="/member/star/"]
 !사이트 공지 관련
 namu.wiki##.site-notice
 namu.wiki##footer
-namu.wiki##article> div:matches-css(background-color:rgb(240, 239, 117))
+namu.wiki##article> namu.wiki##div:matches-css(background-color:rgb(240, 239, 117))
 
 !나무라이브 관련
 namu.wiki##nav > ul > li > a[title="라이브"]
 namu.wiki##.live-list-card
 
 !모바일 최근변경 제거
-namu.wiki##.r:has(>h5:has-text(최근 변경))
+namu.wiki##div:has(>h5:has-text(최근 변경))
 namu.wiki##iframe[id^="aswift"]

@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Homepage: https://github.com/zlzleking/cleannamu/
 ! Twitter: https://twitter.com/Zlzleking
-! Expires: 5 days
+! Expires: 1 days
 
 namu.wiki##nav > ul > li 
 namu.wiki##.wiki-edit-section
