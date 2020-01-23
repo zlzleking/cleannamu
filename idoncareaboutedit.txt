@@ -17,7 +17,10 @@ namu.wiki##article > p[data-v-355b80c8=""]
 namu.wiki##p[data-v-0732fac7=""]
 
 
-namu.wiki##nav > ul > li > .show > a[title="내 문서 기여 목록"]
-namu.wiki##nav > ul > li > .show > a[title="내 토론 기여 목록"]
+namu.wiki##nav > ul > li > .show > a[href^="/contribution/"]
 namu.wiki##nav > ul > li > .show > a[title="로그인"]
 namu.wiki##nav > ul > li > .show > div[data-v-29ae2084=""]
+
+namu.wiki##li:has(>a>.ion-md-compass)
+namu.wiki##li:has(>a>.ion-md-text)
+namu.wiki##li:has(>a>.ion-md-cube)
