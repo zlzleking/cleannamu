@@ -29,6 +29,7 @@ namu.wiki##article > .r > .g > a[href^="/member/star/"]
 !사이트 공지 관련
 namu.wiki##.site-notice
 namu.wiki##footer
+namu.wiki##article> div:matches-css(background-color:rgb(240, 239, 117))
 
 !나무라이브 관련
 namu.wiki##nav > ul > li > a[title="라이브"]
