@@ -38,3 +38,6 @@ namu.wiki##.live-list-card
 !모바일 최근변경 제거
 namu.wiki##div:has(>h5:has-text(최근 변경))
 namu.wiki##iframe[id^="aswift"]
+
+!인기 검색어 제거
+namu.wiki##.app > div > div:has(h5:has-text(인기 검색어))
