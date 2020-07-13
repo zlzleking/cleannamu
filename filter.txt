@@ -15,6 +15,7 @@ namu.wiki##.wiki-paragraph > div:has(a[href^="https://namu.wiki/discuss/"])
 namu.wiki##.wiki-paragraph > div:has(a[title="나무위키:프로젝트"])
 namu.wiki##.wiki-paragraph > div:has(a[title="나무위키:프로젝트/출처"])
 namu.wiki##.wiki-paragraph > div:has(span:has-text(이 문서는 대한민국에서 불법인 내용을 다룹니다.))
+namu.wiki##.wiki-paragraph:has(div:has(span:has-text(이 문서는 대한민국에서 불법인 내용을 다룹니다.)))+.wiki-paragraph+.wiki-table-wrap
 namu.wiki##.wiki-paragraph > div:has(span:has-text(주의. 사건·사고 관련 내용을 설명합니다.))
 
 !보호/준보호 틀 제거
