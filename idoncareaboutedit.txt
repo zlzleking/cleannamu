@@ -15,7 +15,7 @@ namu.wiki##article > .r > .g > a:has-text(토론)
 namu.wiki##article > p[data-v-355b80c8=""]
 
 namu.wiki##p[data-v-0732fac7=""]
-
+namu.wiki##nav > form > div > .l:has(a[href*="/random"])
 
 namu.wiki##nav > ul > li > .show > a[href^="/contribution/"]
 namu.wiki##nav > ul > li > .show > a[title="로그인"]
