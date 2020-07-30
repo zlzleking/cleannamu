@@ -36,6 +36,9 @@ namu.wiki##article > div:matches-css(background-color:rgb(240, 239, 117))
 namu.wiki##nav > ul > li > a[title="라이브"]
 namu.wiki##.live-list-card
 
+!마이너타운 관련
+namu.wiki##nav > ul > li:has(a[title="MT"])
+
 !모바일 최근변경 제거
 namu.wiki##div > div:has(>h5:has-text(최근 변경))
 namu.wiki##iframe[id^="aswift"]
