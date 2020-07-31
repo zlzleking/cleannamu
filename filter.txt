@@ -32,12 +32,11 @@ namu.wiki##.site-notice
 namu.wiki##footer
 namu.wiki##article > div:matches-css(background-color:rgb(240, 239, 117))
 
-!나무라이브 관련
-namu.wiki##nav > ul > li > a[title="라이브"]
-namu.wiki##.live-list-card
 
-!마이너타운 관련
-namu.wiki##nav > ul > li:has(a[title="MT"])
+
+!아카라이브 관련
+namu.wiki##nav > ul > li:has(a[title="아카"])
+namu.wiki##.live-list-card
 
 !모바일 최근변경 제거
 namu.wiki##div > div:has(>h5:has-text(최근 변경))
