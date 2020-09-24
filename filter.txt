@@ -32,7 +32,8 @@ namu.wiki##.site-notice
 namu.wiki##footer
 namu.wiki##article > div:matches-css(background-color:rgb(240, 239, 117))
 
-
+!저작권 틀 제거
+namu.wiki##.wiki-paragraph:has(div:has(div:has(a[href*="/history/"])))
 
 !아카라이브 관련
 namu.wiki##nav > ul > li:has(a[title="아카"])
