@@ -33,7 +33,7 @@ namu.wiki##footer
 namu.wiki##article > div:matches-css(background-color:rgb(240, 239, 117))
 
 !저작권 틀 제거
-namu.wiki##.wiki-paragraph:has(div:has(div:has(a[href*="/history/"])))
+namu.wiki##.wiki-paragraph > .wiki-paragraph > div > div:has(a[title="크리에이티브 커먼즈 라이선스"])
 
 !아카라이브 관련
 namu.wiki##nav > ul > li:has(a[title="아카"])
