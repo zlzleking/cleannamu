@@ -38,6 +38,7 @@ namu.wiki##.wiki-paragraph > .wiki-paragraph > div > div:has(a[title="크리에�
 !아카라이브 관련
 namu.wiki##nav > ul > li:has(a[title="아카"])
 namu.wiki##.live-list-card
+namu.wiki##div > div:has(>h5:has-text(냥드립 채널))
 
 !모바일 최근변경 제거
 namu.wiki##div > div:has(>h5:has-text(최근 변경))
