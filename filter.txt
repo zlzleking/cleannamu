@@ -25,14 +25,15 @@ namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록
 namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록/4단계"])
 
 !Star 제거
-namu.wiki##article > .r > .g > a[href*="/member/star/"]
+namu.wiki##article > div > div > a[href*="/member/star/"]
 
 !사이트 공지 관련
 namu.wiki##.site-notice
 namu.wiki##footer
 namu.wiki##article > div:matches-css(background-color:rgb(240, 239, 117))
 
-
+!저작권 틀 제거
+namu.wiki##.wiki-paragraph:has(div:has(div:has(a[href*="/history/"])))
 
 !아카라이브 관련
 namu.wiki##nav > ul > li:has(a[title="아카"])
