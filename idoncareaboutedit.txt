@@ -8,10 +8,10 @@
 
 namu.wiki##nav > ul > li 
 namu.wiki##.wiki-edit-section
-namu.wiki##article > .r > .g > a:has-text(편집)
-namu.wiki##article > .r > .g > a:has-text(역링크)
-namu.wiki##article > .r > .g > a:has-text(ACL)
-namu.wiki##article > .r > .g > a:has-text(토론)
+namu.wiki##div > div > div:matches-css(display: inline-block) > a:has-text(편집)
+namu.wiki##div > div > div:matches-css(display: inline-block) > a:has-text(역링크)
+namu.wiki##div > div > div:matches-css(display: inline-block) > a:has-text(ACL)
+namu.wiki##div > div > div:matches-css(display: inline-block) > a:has-text(토론)
 namu.wiki##article > p[data-v-355b80c8=""]
 
 namu.wiki##p[data-v-0732fac7=""]
