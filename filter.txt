@@ -25,7 +25,7 @@ namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록
 namu.wiki##.wiki-paragraph:has(a[title="나무위키:접근 제한/문서 목록/4단계"])
 
 !Star 제거
-namu.wiki##article > div > div > a[href*="/member/star/"]
+namu.wiki##div > div > div:matches-css(display: inline-block) > a[href*="/member/star/"]
 
 !사이트 공지 관련
 namu.wiki##.site-notice
